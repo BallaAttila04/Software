@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\Ati\Uni\II. Semester\Software\Lesson2\Sakktabla\bin\Debug\net6.0-windows\Sakktabla.exe
+C:\Users\Hp\Desktop\Ati\Uni\II. Semester\Software\Lesson2\Sakktabla\bin\Debug\net6.0-windows\Sakktabla.deps.json
+C:\Users\Hp\Desktop\Ati\Uni\II. Semester\Software\Lesson2\Sakktabla\bin\Debug\net6.0-windows\Sakktabla.runtimeconfig.json
+C:\Users\Hp\Desktop\Ati\Uni\II. Semester\Software\Lesson2\Sakktabla\bin\Debug\net6.0-windows\Sakktabla.dll
+C:\Users\Hp\Desktop\Ati\Uni\II. Semester\Software\Lesson2\Sakktabla\bin\Debug\net6.0-windows\ref\Sakktabla.dll
+C:\Users\Hp\Desktop\Ati\Uni\II. Semester\Software\Lesson2\Sakktabla\bin\Debug\net6.0-windows\Sakktabla.pdb
+C:\Users\Hp\Desktop\Ati\Uni\II. Semester\Software\Lesson2\Sakktabla\obj\Debug\net6.0-windows\Sakktabla.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Ati\Uni\II. Semester\Software\Lesson2\Sakktabla\obj\Debug\net6.0-windows\Sakktabla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Ati\Uni\II. Semester\Software\Lesson2\Sakktabla\obj\Debug\net6.0-windows\Sakktabla.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Ati\Uni\II. Semester\Software\Lesson2\Sakktabla\obj\Debug\net6.0-windows\Sakktabla.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Ati\Uni\II. Semester\Software\Lesson2\Sakktabla\obj\Debug\net6.0-windows\Sakktabla.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Ati\Uni\II. Semester\Software\Lesson2\Sakktabla\obj\Debug\net6.0-windows\Sakktabla.dll
+C:\Users\Hp\Desktop\Ati\Uni\II. Semester\Software\Lesson2\Sakktabla\obj\Debug\net6.0-windows\ref\Sakktabla.dll
+C:\Users\Hp\Desktop\Ati\Uni\II. Semester\Software\Lesson2\Sakktabla\obj\Debug\net6.0-windows\Sakktabla.pdb
+C:\Users\Hp\Desktop\Ati\Uni\II. Semester\Software\Lesson2\Sakktabla\obj\Debug\net6.0-windows\Sakktabla.genruntimeconfig.cache
