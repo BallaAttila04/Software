@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ce39d7d8-500a-4ca1-9d72-767277214d83": {
+      "ProjectGuid": "ce39d7d8-500a-4ca1-9d72-767277214d83",
+      "DisplayName": "SokGomb",
+      "ColorIndex": 0
+    },
+    "0cd52c39-58da-4719-9b7a-0751b4454bfb": {
+      "ProjectGuid": "0cd52c39-58da-4719-9b7a-0751b4454bfb",
+      "DisplayName": "Fibonacci",
+      "ColorIndex": 1
+    },
+    "4e1bb3cf-1b89-4904-a3a5-8fe494a146a6": {
+      "ProjectGuid": "4e1bb3cf-1b89-4904-a3a5-8fe494a146a6",
+      "DisplayName": "PascalHaromszog",
+      "ColorIndex": 2
+    },
+    "9ba1d99f-ab14-4f47-ab8d-b3c37f28cf81": {
+      "ProjectGuid": "9ba1d99f-ab14-4f47-ab8d-b3c37f28cf81",
+      "DisplayName": "Sakktabla",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
