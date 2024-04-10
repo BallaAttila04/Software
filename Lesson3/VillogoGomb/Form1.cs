@@ -13,7 +13,7 @@ namespace VillogoGomb
             {
                 for (int i = 0; i < 10; i++)
                 {
-                    VillogóGomb b = new VillogóGomb();
+                    SzinezoGomb b = new SzinezoGomb();
                     b.Width = 40;
                     b.Height = 40;
                     b.Left = i * 40;
