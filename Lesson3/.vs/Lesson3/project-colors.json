@@ -10,7 +10,12 @@
       "ProjectGuid": "fd9644c8-df9e-4113-bafb-2d7c8dbf2a7c",
       "DisplayName": "SzinezodoGomb",
       "ColorIndex": 1
+    },
+    "d1858769-f3fa-4cbd-a463-a685547200ab": {
+      "ProjectGuid": "d1858769-f3fa-4cbd-a463-a685547200ab",
+      "DisplayName": "SzamoloGomb",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 3
 }
