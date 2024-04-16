@@ -1,0 +1,17 @@
+C:\Users\Hp\Desktop\Ati\Uni\II. Semester\Software\Lesson3\SzamoloGomb\bin\Debug\net6.0-windows\SzamoloGomb.exe
+C:\Users\Hp\Desktop\Ati\Uni\II. Semester\Software\Lesson3\SzamoloGomb\bin\Debug\net6.0-windows\SzamoloGomb.deps.json
+C:\Users\Hp\Desktop\Ati\Uni\II. Semester\Software\Lesson3\SzamoloGomb\bin\Debug\net6.0-windows\SzamoloGomb.runtimeconfig.json
+C:\Users\Hp\Desktop\Ati\Uni\II. Semester\Software\Lesson3\SzamoloGomb\bin\Debug\net6.0-windows\SzamoloGomb.dll
+C:\Users\Hp\Desktop\Ati\Uni\II. Semester\Software\Lesson3\SzamoloGomb\bin\Debug\net6.0-windows\ref\SzamoloGomb.dll
+C:\Users\Hp\Desktop\Ati\Uni\II. Semester\Software\Lesson3\SzamoloGomb\bin\Debug\net6.0-windows\SzamoloGomb.pdb
+C:\Users\Hp\Desktop\Ati\Uni\II. Semester\Software\Lesson3\SzamoloGomb\obj\Debug\net6.0-windows\SzamoloGomb.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Ati\Uni\II. Semester\Software\Lesson3\SzamoloGomb\obj\Debug\net6.0-windows\SzamoloGomb.Form1.resources
+C:\Users\Hp\Desktop\Ati\Uni\II. Semester\Software\Lesson3\SzamoloGomb\obj\Debug\net6.0-windows\SzamoloGomb.csproj.GenerateResource.cache
+C:\Users\Hp\Desktop\Ati\Uni\II. Semester\Software\Lesson3\SzamoloGomb\obj\Debug\net6.0-windows\SzamoloGomb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Ati\Uni\II. Semester\Software\Lesson3\SzamoloGomb\obj\Debug\net6.0-windows\SzamoloGomb.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Ati\Uni\II. Semester\Software\Lesson3\SzamoloGomb\obj\Debug\net6.0-windows\SzamoloGomb.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Ati\Uni\II. Semester\Software\Lesson3\SzamoloGomb\obj\Debug\net6.0-windows\SzamoloGomb.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Ati\Uni\II. Semester\Software\Lesson3\SzamoloGomb\obj\Debug\net6.0-windows\SzamoloGomb.dll
+C:\Users\Hp\Desktop\Ati\Uni\II. Semester\Software\Lesson3\SzamoloGomb\obj\Debug\net6.0-windows\ref\SzamoloGomb.dll
+C:\Users\Hp\Desktop\Ati\Uni\II. Semester\Software\Lesson3\SzamoloGomb\obj\Debug\net6.0-windows\SzamoloGomb.pdb
+C:\Users\Hp\Desktop\Ati\Uni\II. Semester\Software\Lesson3\SzamoloGomb\obj\Debug\net6.0-windows\SzamoloGomb.genruntimeconfig.cache

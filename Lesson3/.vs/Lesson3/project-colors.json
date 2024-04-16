@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d8f8a789-d71b-4b9d-b892-c7eb6f270847": {
+      "ProjectGuid": "d8f8a789-d71b-4b9d-b892-c7eb6f270847",
+      "DisplayName": "VillogoGomb",
+      "ColorIndex": 0
+    },
+    "fd9644c8-df9e-4113-bafb-2d7c8dbf2a7c": {
+      "ProjectGuid": "fd9644c8-df9e-4113-bafb-2d7c8dbf2a7c",
+      "DisplayName": "SzinezodoGomb",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
