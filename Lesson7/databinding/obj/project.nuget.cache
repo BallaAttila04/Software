@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LO9oNvn2Bak+y2T870chmsw8DXc64GWEtcJloEDCaYjOlNLRViY9cf3rRJY36pTKlNhBMrZX/cNZ+4QEOiVg7w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hp\\Desktop\\Ati\\Uni\\II. Semester\\Software\\Lesson7\\databinding\\databinding.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hp\\.nuget\\packages\\csvhelper\\31.0.3\\csvhelper.31.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
