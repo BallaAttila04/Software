@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "13iqucQRQYhrMDMAW7ybMZ1Ns5GGA7N1hrHCu5Jp0HHlKc13L6sSqag7UpxIdj/zW9tNW456zisuMiPVMpzEug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hp\\Desktop\\Ati\\Uni\\II. Semester\\Software\\Lesson8\\hajos_binding\\hajos_binding.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hp\\.nuget\\packages\\csvhelper\\31.0.3\\csvhelper.31.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
