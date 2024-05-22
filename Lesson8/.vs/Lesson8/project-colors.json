@@ -5,7 +5,12 @@
       "ProjectGuid": "735d1b1e-fcaa-4090-8dde-e8fc413109af",
       "DisplayName": "hajos_binding",
       "ColorIndex": 0
+    },
+    "b88cb6ae-4cc5-44c9-9f31-fc82b2746d97": {
+      "ProjectGuid": "b88cb6ae-4cc5-44c9-9f31-fc82b2746d97",
+      "DisplayName": "FutoversenyzokMintaZH",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }
